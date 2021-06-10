@@ -21,8 +21,8 @@
 
 <h3 align="left">On se connecte ? :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/valentin-huard-a15886184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentin-huard-a15886184" height="30" width="40" /></a>
-<a href="https://www.behance.net/valodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="valodes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/valentin-huard-a15886184" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="valentin-huard-a15886184" height="40" width="40" /></a>
+<a href="https://www.behance.net/valodes" target="blank"><img align="center" src="https://png.pngtree.com/element_our/md/20180509/md_5af2d4d09f567.jpg" alt="valodes" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Mes langages et outils :</h3>
