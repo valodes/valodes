@@ -7,7 +7,7 @@
 
 - 🔭 Actuellement je travaille sur le [site de la MFR de La Ferté-Macé](https://mfr-cfta-ferte.com)
 
-- 🌱 Je suis en train d'apprendre **SASS, Vue.js, Symfony**
+- 🌱 Je suis en train d'apprendre **React, SASS, Redux**
 
 - 👨‍💻 Mes projets sont dispo ici : [https://www.valodes.fr](https://www.valodes.fr)
 
